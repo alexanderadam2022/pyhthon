@@ -1,0 +1,23 @@
+# (1000 milliseconds= 1 second)1 saniyenin binde biri
+
+// floor division, integer verir.
+
+% modulüs kalanı verir.
+
+%= soldaki değeri eşitliğin karşısına böl ve sonucu soldakine eşitle demek.
+
+strip()sağ/solundaki boşlukları siler.
+
+önce fonksiyonu tanımladık.
+while döngüsüne koyduk.
+
+ilk olarak ondalık girelim, böylece Not Valid Input !!!
+göreceğiz. + info dediği için tekrar döngüye dönecek.
+
+eğer exit yazarsak programdan çık ve 
+Exiting the program... Good Bye yazdır diyor.
+
+# convert the given string to the integer
+millisecs = int(alphanum)
+
+5 896 456, 9874563
